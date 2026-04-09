@@ -85,12 +85,7 @@ To provide a comprehensive view of Shopify's sales performance by:
 
 ---
 
-##  Author
-
-**Korrapati Jaswanth**  
-Data Science Enthusiast | 23K Followers @Linkedln | Top Machine Learning & Data Analysis Voice on LinkedIn  
-Bangalore, India  
-Reach out via LinkedIn: [https://www.linkedin.com/in/jaswanth49b057228/]
+ 
 
 ---
 
